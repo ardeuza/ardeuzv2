@@ -615,7 +615,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
 				break
 case 'infobot':
 if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
-			reply(`BASE : ZEEONEOFC\nAUTHOR : APRILIA\nSCRIPT NYA BAKAL UPDATE DI YTNYA BOT INDO`)
+
 break
 case 'cekapikey':
 if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
@@ -891,7 +891,7 @@ case 'waifu':
 
             const ButtonssMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: buttonnsss,
 
@@ -1064,7 +1064,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
 					
              break
 					
-// download fix by aprilia
+// download fix Mad
 case 'ig':
 case 'igdl':
 case 'instagram':
@@ -1184,7 +1184,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
 
             const ButtsMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: buonnsss,
 
@@ -1211,7 +1211,7 @@ case 'teknologi':
 
             const ButsMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: bunnsss,
 
@@ -1238,7 +1238,7 @@ case 'teknologi':
 
             const BttsMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: bonnsss,
 
@@ -1265,7 +1265,7 @@ case 'teknologi':
 
             const BtsMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: btnsss,
 
@@ -1289,7 +1289,7 @@ fs.writeFileSync(`./${sender}.jpeg`, await getBuffer(tot))
 const pbou = await haruka.prepareMessage(from, fs.readFileSync(`./${sender}.jpeg`), MessageType.image)
 const bulonss = [{buttonId:`.${command}`,buttonText: {displayText: 'Next'}, type: 1}]
             const Bsessages = {
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
             buttons: bulonss,
             footerText: `Klik Next Untuk Melanjutkan`,
             headerType: 4,
@@ -1348,7 +1348,7 @@ ${anime.desc}\n\n*Link Batch* : ${anime.batch}\n*Link Download SD* : ${anime.bat
 
             const BsMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: buonss,
 
@@ -1375,7 +1375,7 @@ case 'muslim':
 
             const BsotMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: buonssoi,
 
@@ -1399,7 +1399,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
     	  const pubo = await haruka.prepareMessage(from, fs.readFileSync(`./${sender}.jpeg`), MessageType.image)
             const bsoi = [{buttonId:`.${command}`,buttonText: {displayText: 'Next'}, type: 1}]
             const Bessages = {
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
             buttons: bsoi,
             footerText: `Klik Next Untuk Melanjutkan`,
             headerType: 4,
@@ -1464,7 +1464,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
 
             const BsoMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: buonssi,
 
@@ -1759,7 +1759,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
 
             const ButonsMerssages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: buttons,
 
@@ -1783,7 +1783,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
 
             const BeutonMesages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: sn,
 
@@ -1802,7 +1802,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
           reply(lang.wait())
           aku = (`https://hardianto.xyz/api/anime/random?nsfw=anal&apikey=hardianto`)
           kon = await getBuffer(aku)
-          pll = `© By Aprilia`
+          pll = `© Mad`
    sendButImage(from, pll, `Klik Next Untuk Melanjutkan`, kon, [                      
           {
             buttonId: `${prefix}anal`,
@@ -1940,7 +1940,7 @@ let wowu = (await axios.get(`https://raw.githubusercontent.com/jepribarus/JB-Api
 
             const ButtonsMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: buttosss,
 
@@ -1966,7 +1966,7 @@ const sa = await haruka.prepareMessage(from, buffer, MessageType.image)
 
             const ButonsMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: butons,
 
@@ -1991,7 +1991,7 @@ const sa = await haruka.prepareMessage(from, buffer, MessageType.image)
 
             const ButtonMessages = {
 
-            contentText: `_© By Aprilia_`,
+            contentText: `_© Mad_`,
 
             buttons: buttosn,
 
