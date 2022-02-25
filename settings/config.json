@@ -1,13 +1,13 @@
 {
-	"ownername":"Mad",
-	"ownernumber":"6281414414403",
-	"botname":"Ardeuz Bot",
+	"ownername": "Mad",
+	"ownernumber": "6281414414403",
+	"botname": "Ardeuz Bot",
 	"dana": "https://ibb.co/jZmhH6g",
 	"gopay": "https://ibb.co/jZmhH6g",
 	"ovo": "https://ibb.co/jZmhH6g",
 	"pulsa": "083805183290",
-	"thumbnail":"./settings/logo.jpg",
-	"background":"https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
+	"thumbnail": "./settings/logo.jpg",
+	"background": "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
 	"limit": {
 		"free":200,
 		"premium":1000
