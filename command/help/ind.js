@@ -65,18 +65,15 @@ exports.menu = (prefix, salam, pushname) =>{
 	
 ╭─⧉
 │•INFO BOT•
+│STATUS : ONLINE
 │VERSI : 0.02
 │FITUR : 230
-│CREATOR : APRILIA
 │MODEL SCRIPT : BETA
-│SUBSCRIBE CHANNEL VENZ BOT
-│https://www.youtube.com/c/Venzz - BOT
 ╰───────────────┈ ⳹
 
 ╭─⬣ *List Menu*
 │ • ${prefix}menu
 │ • ${prefix}help
-│ • ${prefix}apri
 │
 ├ *Download*
 │ • ${prefix}play [query]
@@ -302,10 +299,8 @@ exports.menu = (prefix, salam, pushname) =>{
 │
 ├ *Info*
 │ • ${prefix}owner
-│ • ${prefix}donasi
 │ • ${prefix}rules
 │ • ${prefix}daftar
-│ • ${prefix}creator
 │
 ├ *Owner*
 │ • ${prefix}bc [text]
@@ -335,17 +330,6 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}kick @tag
 │ • ${prefix}setdesc [text] 
 │ • ${prefix}setname [text] 
-╰─⬣
-╭─⧉ BIG THANKS TO ⧉
-│❒ ALLAH SWT
-│❒ ORTU
-│❒ ZEEONE OFC (MASTAH)
-│❒ ALDI FAUZI (MASTAH)
-│❒ VENZZ (NEWBIE)
-│❒ SIEGRIN (MASTAH)
-│❒ DINATA (MASTAH)
-│❒ SANZY YT (MASTAH)
-│❒ PENYEDIA MODULE
 ╰───────────────┈ ⳹
 `
 	}
