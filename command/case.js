@@ -166,7 +166,7 @@ if (anu.action == 'add' && !mem.includes(haruka.user.jid)) {
                 anu_user = v.vname || v.notify || num.split('@')[0]
                 time_welc = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 time_wel = moment.tz('Asia/Kolkata').format("hh:mm")
-                teks = ` *KONNICHIWA* @${num.split('@')[0]}\n *B* : *${thu.status}*\n *Ms : ${memeg}*\n *W T* \n *${mdata.subject}*\n*Subscribe My Channel*\n*https://www.youtube.com/c/BOTINDO*\n *D F Ds* \n *${mdata.desc}*\n ${time_wel} -  ${time_welc}`
+                teks = `*KONNICHIWA* @${num.split('@')[0]}\n *STATUS* : *${thu.status}\n *${mdata.desc}*\n ${time_wel} -  ${time_welc}`
                 welcomeBut = [{buttonId:`#owner`,buttonText:{displayText:'OWNER'},type:1}, {buttonId:`bebantot`,buttonText:{displayText:'KONNICHIWA BEBAN'},type:1}]
                 welcomeButt = { contentText: ` `, footerText: `${teks}`, buttons: welcomeBut, headerType: 6, locationMessage: bosco2.message.locationMessage}
                 haruka.sendMessage(mdata.id, welcomeButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
@@ -181,8 +181,8 @@ if (anu.action == 'add' && !mem.includes(haruka.user.jid)) {
                 time_welc = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 time_wel = moment.tz('Asia/Kolkata').format("hh:mm")
                 memeg = mdata.participants.length
-                out = `*Sayonara B* \n@${num.split('@')[0]}\n *Leaving From* : *${mdata.subject}*\n *Rs N P* \n${time_wel} -  ${time_welc}`
-                goodbyeBut = [{buttonId:`#h`,buttonText:{displayText:'Sayonara Beban'}, type:1}]
+                out = `*Sayonara*\n@${num.split('@')[0]}\n *Leaving From* : *${mdata.subject}*\n${time_wel} -  ${time_welc}`
+                goodbyeBut = [{buttonId:`#h`,buttonText:{displayText:'Sayonara Beban'}, type:1}]
                 goodbyeButt = { contentText: ` `, footerText: `${out}`, buttons: goodbyeBut, headerType: 6, locationMessage: bosco3.message.locationMessage}
                 haruka.sendMessage(mdata.id, goodbyeButt, MessageType.buttonsMessage, { caption: 'hehe', "contextInfo": { "mentionedJid" : [num], },})
                   }
