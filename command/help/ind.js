@@ -69,7 +69,8 @@ exports.menu = (prefix, salam, pushname) =>{
 │VERSI : 0.02
 │FITUR : 230
 │MODEL SCRIPT : BETA
-│ARDEUZBOT V1 : https://bit.ly/ardeuzv1
+│↓ ARDEUZ BOT V1 ↓
+│https://bit.ly/ardeuzv1
 ╰───────────────┈ ⳹
 
 ╭─⬣ *List Menu*
