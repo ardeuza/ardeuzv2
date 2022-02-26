@@ -93,51 +93,6 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}soundcloud [url]
 │ • ${prefix}telesticker [url]
 │
-├ *Wibu*
-│ • ${prefix}otaku
-│ • ${prefix}komiku
-│ • ${prefix}chara
-│ • ${prefix}naruto
-│ • ${prefix}kaneki
-│ • ${prefix}rimuru
-│ • ${prefix}akira
-│ • ${prefix}kurama
-│ • ${prefix}dazai
-│ • ${prefix}miku
-│ • ${prefix}mikasa
-│ • ${prefix}eren
-│ • ${prefix}titan
-│ • ${prefix}levi
-│ • ${prefix}sakura
-│ • ${prefix}hinata
-│ • ${prefix}neji
-│ • ${prefix}shinobu
-│ • ${prefix}kurumi
-│ • ${prefix}rem
-│ • ${prefix}minato
-│ • ${prefix}jiraya
-│ • ${prefix}tsunade
-│ • ${prefix}kiba
-│ • ${prefix}boruto
-│ • ${prefix}sarada
-│ • ${prefix}sasuke
-│ • ${prefix}madara
-│ • ${prefix}obito
-│ • ${prefix}tanjiro
-│ • ${prefix}nezuko
-│ • ${prefix}luffy
-│ • ${prefix}zoro
-│ • ${prefix}sanji
-│ • ${prefix}gon
-│ • ${prefix}killua
-│ • ${prefix}sagiri
-│ • ${prefix}zenitsu
-│ • ${prefix}natsu
-│ • ${prefix}genos
-│ • ${prefix}saitama
-│ • ${prefix}inosuke
-│ • ${prefix}inori
-│
 ├ *Sfw Dan Nsfw*
 │ • ${prefix}waifu
 │ • ${prefix}husbu
