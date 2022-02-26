@@ -161,18 +161,7 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}foliokanan [text]
 │ • ${prefix}pantun
 │ 
-├ *Walpaper*
-│ • ${prefix}walpaper
-│ • ${prefix}teknologi
-│ • ${prefix}programmer
-│ • ${prefix}gamer
-│ • ${prefix}anime
-│ • ${prefix}muslim
-│ • ${prefix}cyber
-│
 ├ *Other*
-│ • ${prefix}ssweb
-│ • ${prefix}cekapikey [lolhuman]
 │ • ${prefix}delete
 │ • ${prefix}meme
 │ • ${prefix}readmore
@@ -240,19 +229,6 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}kapankah
 │ • ${prefix}pakgirl
 │ • ${prefix}jadian
-│
-├ *Photooxy*
-│ • ${prefix}narutobanner
-│ • ${prefix}shadow
-│ • ${prefix}romantic
-│ • ${prefix}smoke
-│ • ${prefix}burnpaper
-│ • ${prefix}lovemsg
-│ • ${prefix}grass
-│ • ${prefix}doubleheart
-│ • ${prefix}coffecup
-│ • ${prefix}lovetext
-│ • ${prefix}butterfly
 │
 ├ *Info*
 │ • ${prefix}owner
